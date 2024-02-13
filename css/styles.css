@@ -10,3 +10,7 @@ body {
   color: rgb(226, 90, 113);
   font-size: 30px;
 }
+
+#buttons .btn {
+  font-size: 18px;
+}
