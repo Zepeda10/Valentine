@@ -1,0 +1,12 @@
+body {
+  background-color: #f8f9fa;
+}
+.valentine-container {
+  text-align: center;
+  margin-top: 100px;
+}
+.valentine-text {
+  font-family: "Protest Riot", sans-serif;
+  color: rgb(226, 90, 113);
+  font-size: 30px;
+}
